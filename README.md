@@ -1,0 +1,2 @@
+# matematika
+Package go sederhana
